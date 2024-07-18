@@ -1,0 +1,6 @@
+projectKey=Magento_2.4.1
+serverUrl=http://10.225.5.221:9010
+serverVersion=9.9.5.90363
+dashboardUrl=http://10.225.5.221:9010/dashboard?id=Magento_2.4.1
+ceTaskId=AZDEwEZjuFjI_Qhji_SY
+ceTaskUrl=http://10.225.5.221:9010/api/ce/task?id=AZDEwEZjuFjI_Qhji_SY
